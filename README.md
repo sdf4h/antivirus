@@ -1,6 +1,6 @@
 # antivirus
 
-*pip install openai
+**pip install openai**
 
 
 
